@@ -1,3 +1,6 @@
+
+##For smooter experience please read from the html source https://legendary-family-2d3.notion.site/CVE-2022-26134-vulnerability-Same-but-different-but-still-same-48ffce20d2ab48e28af64f99c37065c1
+
 # Picus-Journey
 
 # CVE-2022-26134 vulnerability: Same, but different, but still same.
